@@ -1,1 +1,1 @@
-this is a very basic example for a Spring_mvc application.
+this is a basic example for a Spring_mvc application.
